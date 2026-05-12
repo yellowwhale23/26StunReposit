@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\sex\\IHate26\\",
+  "WorkspaceRootPath": "C:\\test\\Project1\\26StunReposit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB5A205B-3222-499F-AB9D-3BDE574CE067}|IHate26.vcxproj|C:\\Users\\user\\Desktop\\sex\\IHate26\\main01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AB5A205B-3222-499F-AB9D-3BDE574CE067}|IHate26.vcxproj|C:\\test\\Project1\\26StunReposit\\main01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB5A205B-3222-499F-AB9D-3BDE574CE067}|IHate26.vcxproj|solutionrelative:main01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main01.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sex\\IHate26\\main01.c",
+              "DocumentMoniker": "C:\\test\\Project1\\26StunReposit\\main01.c",
               "RelativeDocumentMoniker": "main01.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\sex\\IHate26\\main01.c",
+              "ToolTip": "C:\\test\\Project1\\26StunReposit\\main01.c",
               "RelativeToolTip": "main01.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-05-12T01:51:44.105Z",
               "EditorCaption": ""

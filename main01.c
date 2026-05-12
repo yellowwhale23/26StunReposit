@@ -2,7 +2,7 @@
 
 int main() {
 	printf("pppp");
-	printf("대 헬레나 님을 찬양하라");
+	printf("helena is kami sa am");
 
 	return 0;
 }
